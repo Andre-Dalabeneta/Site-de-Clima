@@ -36,7 +36,7 @@ and open the template in the editor.
         <div class="jumbotron jumbotron-fluid">
             <div class="container">
                 <h1 class="display-4">Umidade do ar</h1>
-                <img width="30px" src="img/icones/gotadagua.png"/>
+                <img width="30px" src="img/icones/gotadagua.PNG"/>
                 <span id="umidade"></span>
             </div>
         </div>
@@ -44,7 +44,7 @@ and open the template in the editor.
         <div class="jumbotron jumbotron-fluid">
             <div class="container">
                 <h1 class="display-4">Pressão do ar</h1>
-                <img width="30px" src="img/icones/pressaoar.png"/>
+                <img width="30px" src="img/icones/pressaoar.PNG"/>
                 <span id="pressaoAr"></span>
             </div>
         </div>
@@ -52,7 +52,7 @@ and open the template in the editor.
         <div class="jumbotron jumbotron-fluid">
             <div class="container">
                 <h1 class="display-4">Temperatura máxima</h1>
-                <img src="img/icones/cadeasetacima.png"/>
+                <img src="img/icones/cadeasetacima.PNG"/>
                 <span id="temp_max"></span>
             </div>
         </div>
@@ -60,7 +60,7 @@ and open the template in the editor.
         <div class="jumbotron jumbotron-fluid">
             <div class="container">
                 <h1 class="display-4">Temperatura mínima</h1>
-                <img src="img/icones/cadeasetabaxo.png"/>
+                <img src="img/icones/cadeasetabaxo.PNG"/>
                 <span id="temp_min"></span>
             </div>
         </div>
@@ -68,7 +68,7 @@ and open the template in the editor.
         <div class="jumbotron jumbotron-fluid">
             <div class="container">
                 <h1 class="display-4">Velocidade do vento</h1>
-                <img width="30px" src="img/icones/wind.png"/>
+                <img width="30px" src="img/icones/wind.PNG"/>
                 <span id="wind"></span>
             </div>
         </div>
